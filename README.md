@@ -10,6 +10,16 @@
   </a> 
 </p>
 
+Welcome to my GitHub! :octocat:. I'm Igor, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
+
+#### Formation:
+- Computer Engineer :mortar_board:
+
+#### About me
+
+##### Working
+- Working with Java ☕
+
 <!--
 **igorsbezerra/igorsbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
