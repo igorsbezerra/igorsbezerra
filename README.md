@@ -12,11 +12,12 @@
 
 Welcome to my GitHub! :octocat:. I'm, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
 
-#### Formation:
-- Computer Engineer :mortar_board:
+<h1 align="center"> Formation </h1>
+<h4 align="center"> Computer Engineer :mortar_board: </h4>
 
-##### Working
-- Working with Java ☕
+<br />
+<h1 align="center"> Working </h1>
+<h4 align="center"> Java ☕ </h4>
 
 <!--
 **igorsbezerra/igorsbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
