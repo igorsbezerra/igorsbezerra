@@ -15,7 +15,6 @@
 <h4 align="center"> Formation </h4>
 <h5 align="center"> Computer Engineer :mortar_board: </h5>
 
-<br />
 <h4 align="center"> Working </h4>
 <h5 align="center"> Java ☕ </h5>
 
