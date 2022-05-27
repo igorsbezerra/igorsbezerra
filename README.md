@@ -10,14 +10,14 @@
   </a> 
 </p>
 
-Welcome to my GitHub! :octocat:. I'm, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
+<p align="center">Welcome to my GitHub! :octocat:. I'm, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.</p>
 
-<h1 align="center"> Formation </h1>
-<h4 align="center"> Computer Engineer :mortar_board: </h4>
+<h4 align="center"> Formation </h4>
+<h5 align="center"> Computer Engineer :mortar_board: </h5>
 
 <br />
-<h1 align="center"> Working </h1>
-<h4 align="center"> Java ☕ </h4>
+<h4 align="center"> Working </h4>
+<h5 align="center"> Java ☕ </h5>
 
 <!--
 **igorsbezerra/igorsbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
