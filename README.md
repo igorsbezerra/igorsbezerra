@@ -10,7 +10,7 @@
   </a> 
 </p>
 
-Welcome to my GitHub! :octocat:. I'm Igor, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
+Welcome to my GitHub! :octocat:. I'm, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
 
 #### Formation:
 - Computer Engineer :mortar_board:
