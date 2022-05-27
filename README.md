@@ -15,8 +15,6 @@ Welcome to my GitHub! :octocat:. I'm, systems analyst at [@Faber-Castell](https:
 #### Formation:
 - Computer Engineer :mortar_board:
 
-#### About me
-
 ##### Working
 - Working with Java ☕
 
