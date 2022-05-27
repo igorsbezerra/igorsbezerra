@@ -1,4 +1,4 @@
-Hey, I'm Igor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<h1 align="center">Hey, I'm Igor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://github.com/igorsbezerra" target="_blank">
