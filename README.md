@@ -1,5 +1,5 @@
 Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
- ![Snake animation](https://github.com/igorsbezerra/igorsbezerra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igorsbezerra/igorsbezerra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <p align="center">
