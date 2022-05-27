@@ -10,7 +10,8 @@
   </a> 
 </p>
 
-<p align="center">Welcome to my GitHub! :octocat:. I'm, systems analyst at Faber-Castell, passionate about technology.</p>
+<p align="center">Welcome to my GitHub! :octocat:</p>
+<p align="center">I'm, systems analyst at Faber-Castell, passionate about technology.</p>
 
 <h4 align="center"> Formation </h4>
 <h5 align="center"> Computer Engineer :mortar_board: </h5>
