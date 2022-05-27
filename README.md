@@ -1,5 +1,4 @@
-Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-![Snake animation](https://github.com/igorsbezerra/igorsbezerra/blob/output/github-contribution-grid-snake.svg)
+Hey, I'm Igor! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/igorsbezerra" target="_blank">
